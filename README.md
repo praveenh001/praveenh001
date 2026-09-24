@@ -6,9 +6,12 @@
 
 📍 Bengaluru, India &nbsp;•&nbsp; 🎓 B.E. in Information Science & Engineering (CGPA 8.38)
 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Entry--Level_Roles-2ea44f?style=for-the-badge)
 
-[📧 Email](mailto:praveenpuni80@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com/in/praveenh001) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/praveenh001)
+<a href="https://www.linkedin.com/in/praveenh001/" target="_blank">
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-Entry--Level_Roles-2ea44f?style=for-the-badge" alt="Open to Work">
+</a>
+
+[Email](mailto:praveenpuni80@gmail.com) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/praveenh001) &nbsp;&nbsp; [GitHub](https://github.com/praveenh001)
 
 </div>
 
@@ -16,7 +19,9 @@
 
 ## 👋 Summary
 
-Recent B.E. graduate and **Python Full Stack Development Intern** with hands-on experience building and debugging **Django applications and REST APIs**, integrating databases, and collaborating through Git and GitHub.
+Aspiring Backend Developer with hands-on experience in Python, Django, REST API design and database
+driven application development. Committed to writing clean, maintainable code and applying strong object-oriented programming
+fundamentals to build scalable, reliable backend systems
 
 I enjoy solving practical problems, improving application reliability, and turning ideas into working software, from real-time computer vision to collaborative web apps.
 
@@ -127,13 +132,6 @@ Full-stack collaborative code editor that lets multiple users write code togethe
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenh001&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenh001&layout=compact&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
